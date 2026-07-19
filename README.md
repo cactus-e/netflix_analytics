@@ -42,13 +42,14 @@
 
 Чтобы скачать все материалы и открыть проект в своём Jupyter Notebook, введите в терминале следующие команды:
 
-```bash
-# Клонируем проект на компьютер
-git clone https://github.com/cactus-e/netflix_analytics.git
-
-# Переходим в папку проекта
-pip install pandas sqlalchemy matplotlib seaborn jupyter
-
-# Запускаем Jupyter
-jupyter notebook
-```
+1. Склонируйте репозиторий:
+   ```bash
+   git clone https://github.com
+   ```
+2. Установите зависимости:
+   ```bash
+   cd netflix_analytics
+   ```
+3. Запустите Jupyter Notebook:
+   ```bash
+   jupyter notebook
