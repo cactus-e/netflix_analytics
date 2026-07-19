@@ -44,7 +44,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/cactus-e/netflix_analytics.git
    ```
 2. Установите зависимости:
    ```bash
