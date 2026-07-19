@@ -44,10 +44,10 @@
 
 ```bash
 # Клонируем проект на компьютер
-git clone https://github.com
+git clone https://github.com/cactus-e/netflix_analytics.git
 
 # Переходим в папку проекта
-cd netflix_analytics
+pip install pandas sqlalchemy matplotlib seaborn jupyter
 
 # Запускаем Jupyter
 jupyter notebook
